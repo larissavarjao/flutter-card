@@ -17,6 +17,7 @@ Or do Fn + F5 if you're on mac notebook
 You can see on my app that I'm a software developer with experience in React, NodeJs and Flutter. With my information, as showed bellow:
 
 View of the app
+
 ![view of app](images/app-view.png)
 
 ## Technologies
