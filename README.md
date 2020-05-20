@@ -7,7 +7,6 @@ This is an app to practice flutter and have a card with my website and email.
 ```shell
 cd flutter-card/
 flutter run
-
 ```
 
 Or do Fn + F5 if you're on mac notebook
